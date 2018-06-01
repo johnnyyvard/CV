@@ -1,0 +1,24 @@
+h2
+{
+	color: #FF0000;
+}
+
+h1
+{
+	font-family: 'Righteous', cursive;
+	font-size: 2rem;
+}
+
+body
+{
+	background: url("Picture/fond_de_site.gif") fixed repeat;
+}
+
+h2
+{
+	font-family: '1942-report', Arial, serif;
+}
+.Maison
+{
+	float: left;
+}
